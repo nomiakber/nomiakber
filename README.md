@@ -12,7 +12,18 @@ I design and ship **large-scale business platforms** — ERP, CRM, HRMS, logisti
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-7C3AED?style=flat-square" />
 </p>
 
-**Contact:** [nomiakber@gmail.com](mailto:nomiakber@gmail.com) · GitHub: [nomiakber](https://github.com/nomiakber)
+**Contact:** [nomiakber@gmail.com](mailto:nomiakber@gmail.com) · Phone: [+92 334 3234920](tel:+923343234920) · GitHub: [nomiakber](https://github.com/nomiakber)
+
+---
+
+## Key achievements
+
+| | |
+|--|--|
+| **9+ years** | Shipping production software across enterprise & SaaS |
+| **20+ enterprise applications** | ERP · CRM · HRMS · RMS · logistics · claims platforms |
+| **50+ system integrations** | Payments · courier APIs · accounting · CRM · WhatsApp Business API · OpenAI |
+| **US / Canada clients** | Remote delivery with international stakeholders |
 
 ---
 
@@ -27,6 +38,7 @@ I design and ship **large-scale business platforms** — ERP, CRM, HRMS, logisti
 | **Engagement model** | Remote-first with international stakeholders |
 | **Current chapter** | Senior Full Stack Engineer — MonetizeMore (Canada), via eSell Solutions |
 | **Relocation** | Actively open to **UAE / KSA / Qatar** |
+| **Phone** | +92 334 3234920 |
 
 ---
 
@@ -169,6 +181,7 @@ Dadabhoy Institute of Higher Education (DIHE), Karachi — Dec 2019
 Open to senior full-stack / technical lead conversations — especially **AI-enabled enterprise product**, **platform engineering**, and **GCC relocation** roles.
 
 📧 [nomiakber@gmail.com](mailto:nomiakber@gmail.com)  
+📱 [+92 334 3234920](tel:+923343234920)  
 💻 [github.com/nomiakber](https://github.com/nomiakber)
 
 *Full case studies and references available on request.*
