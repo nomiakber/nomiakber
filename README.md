@@ -12,7 +12,7 @@ I design and ship **large-scale business platforms** — ERP, CRM, HRMS, logisti
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-7C3AED?style=flat-square" />
 </p>
 
-**Contact:** [nomiakber@gmail.com](mailto:nomiakber@gmail.com) · Phone: [+92 334 3234920](tel:+923343234920) · GitHub: [nomiakber](https://github.com/nomiakber)
+**Contact:** [nomiakber@gmail.com](mailto:nomiakber@gmail.com) · Phone: [+92 334 3234920](tel:+923343234920) · LinkedIn: [nomanakber86](https://www.linkedin.com/in/nomanakber86) · GitHub: [nomiakber](https://github.com/nomiakber)
 
 ---
 
@@ -101,22 +101,69 @@ Ad-tech / SaaS platforms · HubSpot and CRM integrations · lead intelligence ·
 
 ---
 
-## Technical arsenal
+## Skills
+
+### Skill meters
+```text
+PHP                 ████████████████████  100%
+Laravel             ████████████████████  100%
+MySQL               ███████████████████░   98%
+REST APIs           ███████████████████░   96%
+Angular             ██████████████████░░   94%
+TypeScript          ██████████████████░░   92%
+JavaScript          █████████████████░░░   88%
+HTML / CSS          █████████████████░░░   88%
+AWS                 █████████████████░░░   86%
+Docker / Redis      ████████████████░░░░   84%
+OpenAI / AI         ████████████████░░░░   84%
+Ruby on Rails       ███████████████░░░░░   78%
+```
 
 ### Languages & frameworks
-`PHP` `Laravel` `Angular` `TypeScript` `JavaScript` `Ruby on Rails`
+![PHP](https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-100%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-94%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-92%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-88%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-88%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-88%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-78%25-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ### Data & backend
-`MySQL` `SQL Server` `REST APIs` `Webhooks` `Redis`
+![MySQL](https://img.shields.io/badge/MySQL-98%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-90%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-84%25-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-96%25-02569B?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-92%25-6E5494?style=for-the-badge)
 
-### Cloud & DevOps mindset
-`AWS EC2` `AWS S3` `AWS RDS` `DigitalOcean` `Docker` `Firebase` `Git`
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-86%25-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-84%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-82%25-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-80%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-95%25-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI & ecosystem integrations
-`OpenAI` `WhatsApp Business API` `HubSpot` `Stripe` `QuickBooks` `Courier APIs` `Postman`
+### AI & integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-84%25-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20Business%20API-88%25-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-90%25-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-85%25-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-85%25-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-92%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Delivery standards
-`Agile` `Waterfall` `SDLC` `ITIL` `ISO 9001:2015` `ISO 27001:2013` `ISO 20000-1:2018`
+![Agile](https://img.shields.io/badge/Agile-SDLC-111827?style=flat-square)
+![Waterfall](https://img.shields.io/badge/Waterfall-SDLC-374151?style=flat-square)
+![ITIL](https://img.shields.io/badge/ITIL-Framework-1F2937?style=flat-square)
+![ISO 9001](https://img.shields.io/badge/ISO%209001:2015-Quality-059669?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001:2013-Security-0EA5E9?style=flat-square)
+![ISO 20000](https://img.shields.io/badge/ISO%2020000--1:2018-ITSM-6366F1?style=flat-square)
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,angular,ts,js,html,css,mysql,redis,docker,aws,git,github,postman,linux&perline=8" alt="Skill icons" />
+  </a>
+</p>
 
 ---
 
@@ -182,6 +229,7 @@ Open to senior full-stack / technical lead conversations — especially **AI-ena
 
 📧 [nomiakber@gmail.com](mailto:nomiakber@gmail.com)  
 📱 [+92 334 3234920](tel:+923343234920)  
+💼 [linkedin.com/in/nomanakber86](https://www.linkedin.com/in/nomanakber86)  
 💻 [github.com/nomiakber](https://github.com/nomiakber)
 
 *Full case studies and references available on request.*
